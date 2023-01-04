@@ -4,7 +4,7 @@
   "description": "Test Server to be hosted and used as a end point api server in learning and testing server side code!",
   "main": "server.js",
   "scripts": {
-    "start": "node server.mjs",
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Thenura Wijerathne",
