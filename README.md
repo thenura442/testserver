@@ -1,3 +1,4 @@
 # testserver
 
-A Simple Test Server to practice express and mongodb rest ap
+A Simple Test Server to practice express and mongodb rest api
+
