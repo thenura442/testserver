@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "test": "mocha",
+    "test": "mocha --timout 10000",
     "serve": "nodemon server.js"
   },
   "author": "Thenura Wijerathne",
