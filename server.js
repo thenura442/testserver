@@ -11,7 +11,7 @@ const dbUrl = process.env.DBURL || "mongodb+srv://admin:thenura1@brainstorm-clus
 const port = process.env.PORT || 9000;
 
 var corsOptions = {
-    origin: 'https://test-server2-ox4p.onrender.com/',
+    origin: 'https://test-server2-ox4p.onrender.com',
     optionsSuccessStatus: 200 // some legacy browsers (IE11, various SmartTVs) choke on 204 
   }
   
