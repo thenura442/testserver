@@ -74,7 +74,7 @@ app.use("/api", require("./app/Routes/staff.routes"));
 
 //app.use(bodyParser.json());  For what is this used
 app.listen(port, () => {
-    console.log(`Server Just Started!`)
+    console.log(`Server Just Started! on port ${port}`)
 });
 
 // express deprecated res.send(status, body): Use res.status(status).send(body) instead server.js:7:9
